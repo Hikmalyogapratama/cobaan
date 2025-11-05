@@ -1,15 +1,15 @@
 # REQUIRED CONFIG
-BOT_TOKEN = ""
-OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
+BOT_TOKEN = "8386982089:AAE_167l-UrzCINv5mjUEfxbEmaGu8XFfyo"
+OWNER_ID = 6394716045
+TELEGRAM_API = 30287546
+TELEGRAM_HASH = "9e52bc1d80a850681ecbebe4bf876e74"
 # OPTIONAL CONFIG
 TG_PROXY = {}
 USER_SESSION_STRING = ""
 CMD_SUFFIX = ""
 AUTHORIZED_CHATS = ""
 SUDO_USERS = ""
-DATABASE_URL = ""
+DATABASE_URL = "https://github.com/Hikmalyogapratama/Hikmalyogapratama.git"
 STATUS_LIMIT = 4
 DEFAULT_UPLOAD = "rc"
 STATUS_UPDATE_INTERVAL = 15
@@ -35,8 +35,8 @@ RCLONE_SERVE_PORT = 0
 RCLONE_SERVE_USER = ""
 RCLONE_SERVE_PASS = ""
 # JDownloader
-JD_EMAIL = ""
-JD_PASS = ""
+JD_EMAIL = "hikmalyoga135@gmail.com"
+JD_PASS = "Hikmal02"
 # Sabnzbd
 USENET_SERVERS = [
     {
@@ -81,14 +81,14 @@ BASE_URL_PORT = 0
 WEB_PINCODE = False
 # Queueing system
 QUEUE_ALL = 0
-QUEUE_DOWNLOAD = 0
-QUEUE_UPLOAD = 0
+QUEUE_DOWNLOAD = 10
+QUEUE_UPLOAD = 10
 # RSS
 RSS_DELAY = 600
 RSS_CHAT = ""
 RSS_SIZE_LIMIT = 0
 # Torrent Search
-SEARCH_API_LINK = ""
+SEARCH_API_LINK = "https://github.com/Ryuk-me/Torrent-Api-py"
 SEARCH_LIMIT = 0
 SEARCH_PLUGINS = [
     "https://raw.githubusercontent.com/qbittorrent/search-plugins/master/nova3/engines/piratebay.py",
